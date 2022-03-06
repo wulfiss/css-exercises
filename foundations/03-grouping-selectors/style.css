@@ -1,0 +1,13 @@
+.fontSizeFamily{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.colorBackOne{
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.colorBackTwo{
+    background-color: #ffff00;
+}
