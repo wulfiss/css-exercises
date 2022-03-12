@@ -59,12 +59,12 @@ ul {
 .left-elements{
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 
 .right-element{
   display: flex;
-  align-items: flex-end;
-}
+} 
 
 li{
   padding: 8px;
